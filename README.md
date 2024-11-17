@@ -111,7 +111,7 @@ Generates a prescribed bill for a patient, displaying a fixed consultation fee.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/hospital-management-system.git
+    git clone https://github.com/Hydra-Ramesh/Hospital-Management-System-in-C.git
     ```
 
 2. Navigate to the project directory:
